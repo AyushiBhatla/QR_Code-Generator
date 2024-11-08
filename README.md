@@ -54,8 +54,12 @@ A simple Flask-based web application to generate QR codes from user-provided URL
 - `templates/index.html`: HTML template for the frontend user interface.
 - `static/`: Directory for CSS or JavaScript files if needed.
 
-## Troubleshooting
+## Troubleshooting 
 If you encounter an `HTTP ERROR 405`, ensure that:
 - The route in `app.py` allows `POST` requests.
 - The form in `index.html` is set to `method="POST"`.
-  
+- 
+## Output
+![image](https://github.com/user-attachments/assets/7f4d9ff7-6765-4581-8ad6-cc95fb6cba12)
+![image](https://github.com/user-attachments/assets/85032deb-699d-49d2-a4b7-4f3590369f40)
+
