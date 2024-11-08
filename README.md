@@ -61,5 +61,6 @@ If you encounter an `HTTP ERROR 405`, ensure that:
 - 
 ## Output
 ![image](https://github.com/user-attachments/assets/7f4d9ff7-6765-4581-8ad6-cc95fb6cba12)
-![image](https://github.com/user-attachments/assets/85032deb-699d-49d2-a4b7-4f3590369f40)
+![qr_code (1)](https://github.com/user-attachments/assets/91be9f90-1a02-405f-800d-3a6bca8201a0)
+
 
